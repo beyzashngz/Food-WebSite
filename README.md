@@ -1,5 +1,5 @@
 <h1>Food WebSite</h1>
-This project was created using Html, Css and Javascropt. 
+This project was created using Html, Css and Javascript. 
 There are various foods, prices, food reviews. 
 You can choose the meals and add them to the cart. 
 It has a responsive design.
